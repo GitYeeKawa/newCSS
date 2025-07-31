@@ -191,7 +191,7 @@ header nav ul li a:hover {
 }
 
 main section.backImage {
-  background-image: url(./Pictures/pexels-photo-416676.jpeg);
+  background-image: url(../Pictures/pexels-photo-416676.jpeg);
   width: 100%;
   min-height: 90vh;
   background-size: cover;
